@@ -1,0 +1,48 @@
+﻿<Properties StartupConfiguration="{11EDF872-A04D-4F75-A1BF-71168DC86AF3}|Unit Tests">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DataDrivenTests/GenericTestFixture.cs">
+    <Files>
+      <File FileName="money/Money.cs" Line="41" Column="14" />
+      <File FileName="money/IMoney.cs" Line="31" Column="1" />
+      <File FileName="money/MoneyBag.cs" Line="50" Column="24" />
+      <File FileName="money/MoneyTest.cs" Line="80" Column="16" />
+      <File FileName="build.cake" Line="20" Column="24" />
+      <File FileName="ExpectedExceptionExample/ExpectedExceptionAttribute.cs" Line="14" Column="46" />
+      <File FileName="ExpectedExceptionExample/ExpectedExceptionTests.cs" Line="9" Column="15" />
+      <File FileName="ExpectedExceptionExample/packages.config" Line="1" Column="1" />
+      <File FileName="money/packages.config" Line="4" Column="12" />
+      <File FileName="DataDrivenTests/DataDrivenTestFixture.cs" Line="23" Column="1" />
+      <File FileName="DataDrivenTests/Properties/AssemblyInfo.cs" Line="1" Column="1" />
+      <File FileName="DataDrivenTests/packages.config" Line="5" Column="12" />
+      <File FileName="DataDrivenTests/GenericTestFixture.cs" Line="16" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NUnitDemoApp" expanded="True">
+            <Node name="Solution Items" expanded="True" />
+            <Node name="DataDrivenTests" expanded="True">
+              <Node name="Packages" expanded="True" />
+              <Node name="GenericTestFixture.cs" selected="True" />
+            </Node>
+            <Node name="Money" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Samples" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Money PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

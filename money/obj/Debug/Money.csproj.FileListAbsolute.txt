@@ -1,0 +1,9 @@
+/Users/ross.meitei/Documents/C# Projects/nunit-csharp-samples-master/money/bin/Debug/Money.Tests.dll
+/Users/ross.meitei/Documents/C# Projects/nunit-csharp-samples-master/money/bin/Debug/Money.Tests.pdb
+/Users/ross.meitei/Documents/C# Projects/nunit-csharp-samples-master/money/bin/Debug/nunit.framework.dll
+/Users/ross.meitei/Documents/C# Projects/nunit-csharp-samples-master/money/bin/Debug/NUnit.System.Linq.dll
+/Users/ross.meitei/Documents/C# Projects/nunit-csharp-samples-master/money/bin/Debug/nunit.framework.xml
+/Users/ross.meitei/Documents/C# Projects/nunit-csharp-samples-master/money/obj/Debug/Money.csproj.CopyComplete
+/Users/ross.meitei/Documents/C# Projects/nunit-csharp-samples-master/money/obj/Debug/Money.Tests.dll
+/Users/ross.meitei/Documents/C# Projects/nunit-csharp-samples-master/money/obj/Debug/Money.Tests.pdb
+/Users/ross.meitei/Documents/C# Projects/nunit-csharp-samples-master/money/obj/Debug/Money.csprojAssemblyReference.cache

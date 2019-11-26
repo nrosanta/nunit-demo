@@ -16,7 +16,11 @@ namespace DataDrivenTests
         [Test]
         public void TestArguments()
         {
-            Assert.Pass($"X is {_x}");
+            //Assert.Pass($"X is {_x}");
+            if (_x.Equals(10))
+                Assert.AreEqual(10, _x);
+            if (_x==42)
+                Assert.AreEqual(42, _x);
         }
     }
 }

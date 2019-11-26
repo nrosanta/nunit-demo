@@ -1,0 +1,9 @@
+/Users/ross.meitei/Documents/C# Projects/nunit-csharp-samples-master/syntax/bin/Debug/Syntax.Tests.dll
+/Users/ross.meitei/Documents/C# Projects/nunit-csharp-samples-master/syntax/bin/Debug/Syntax.Tests.pdb
+/Users/ross.meitei/Documents/C# Projects/nunit-csharp-samples-master/syntax/bin/Debug/nunit.framework.dll
+/Users/ross.meitei/Documents/C# Projects/nunit-csharp-samples-master/syntax/bin/Debug/NUnit.System.Linq.dll
+/Users/ross.meitei/Documents/C# Projects/nunit-csharp-samples-master/syntax/bin/Debug/nunit.framework.xml
+/Users/ross.meitei/Documents/C# Projects/nunit-csharp-samples-master/syntax/obj/Debug/AssertSyntax.csprojAssemblyReference.cache
+/Users/ross.meitei/Documents/C# Projects/nunit-csharp-samples-master/syntax/obj/Debug/AssertSyntax.csproj.CopyComplete
+/Users/ross.meitei/Documents/C# Projects/nunit-csharp-samples-master/syntax/obj/Debug/Syntax.Tests.dll
+/Users/ross.meitei/Documents/C# Projects/nunit-csharp-samples-master/syntax/obj/Debug/Syntax.Tests.pdb
